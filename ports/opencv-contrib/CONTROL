@@ -1,4 +1,4 @@
-Source: opencv_contrib
+Source: opencv-contrib
 Version: 4.2.0-1
 Homepage: https://github.com/opencv/opencv_contrib
 Description: Computer vision library extra modules
