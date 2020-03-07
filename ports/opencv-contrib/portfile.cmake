@@ -2,7 +2,7 @@ include(vcpkg_common_functions)
 
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
-    REPO opencv/opencv-contrib
+    REPO opencv/opencv_contrib
     REF 4.2.0-1
     SHA512 1
     HEAD_REF master
