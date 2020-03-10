@@ -4,7 +4,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO opencv/opencv_contrib
     REF 3.4.7
-    SHA512 431dfba0f413071d7faa18bc6e6f5e4f015285e2cc730c5dd69b2a4d6aa4250b7e0bcb1814ac6f06f5c76f103aea1f93f72f32aee6bc0cd7ddacdaf1f40075c1
+    SHA512 922620f3e8754fc15dedf8993bdc1f00c06b623cbeeb72afb984ddaad6e0e04f46561a0ee4d20f5e260616c1f32c6dc0dd7248355d417873ae72bd03cb5d57fd
     HEAD_REF master
 )
 
